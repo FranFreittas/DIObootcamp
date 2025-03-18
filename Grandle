@@ -1,0 +1,37 @@
+AJUDA.md
+.gradle
+construir/
+!gradle/wrapper/gradle-wrapper.jar
+!**/origem/principal/**/construir/
+!**/src/teste/**/construir/
+
+### STS ###
+.apt_gerado
+.caminho de classe
+.caminho de fábrica
+.projeto
+.configurações
+.springBeans
+.sts4-cache
+lata/
+!**/origem/principal/**/bin/
+!**/origem/teste/**/bin/
+
+### IDEIA IntelliJ ###
+.ideia
+*.iws
+*.iml
+*.ipr
+fora/
+!**/src/main/**/fora/
+!**/src/teste/**/fora/
+
+### NetBeans ###
+/nbproject/privado/
+/nbconstruir/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Código VS ###
+.vscode/
